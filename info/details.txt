@@ -1,0 +1,5 @@
+axios
+reactjs
+semantic ui reactjs
+sqlite
+.net 6
